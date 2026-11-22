@@ -13,8 +13,7 @@ ISIC 2592 covers the shop that electroplates, anodizes, powder-coats,
 galvanizes, heat-treats and precision-machines metal parts on a fee-
 or-contract basis (a job shop that treats/finishes/machines OTHER
 manufacturers' parts, not a maker of a finished consumer product
-itself). This is distinct from `cloud-itonami-isic-2591` (Forging,
-pressing, stamping and roll-forming of metal), the primary heavy
+itself). This is distinct from `cloud-itonami-isic-2591` (ISIC 2591), the primary heavy
 metal-forming process; from `cloud-itonami-isic-2593` (Manufacture of
 cutlery, hand tools and general hardware), a finished-goods shop; and
 from `cloud-itonami-isic-2599` (Manufacture of other fabricated metal

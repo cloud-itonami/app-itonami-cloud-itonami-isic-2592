@@ -49,8 +49,7 @@ machined-part items, per ISIC 2592's own scope) rather than 2593's
 `:product-category` covering cutlery, hand tools and general hardware.
 
 `cloud-itonami-isic-2592` is also distinct from three sibling classes
-in the same ISIC 259 group: `cloud-itonami-isic-2591` (Forging,
-pressing, stamping and roll-forming of metal -- the primary heavy
+in the same ISIC 259 group: `cloud-itonami-isic-2591` (ISIC 2591 -- the primary heavy
 metal-forming process upstream of a downstream finishing shop),
 `cloud-itonami-isic-2593` (Manufacture of cutlery, hand tools and
 general hardware -- a finished-goods shop), and `cloud-itonami-
